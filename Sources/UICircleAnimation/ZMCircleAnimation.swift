@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-class UICircleAnimation:UIView {
+public class UICircleAnimation:UIView {
     
     /**
      *  Variables
@@ -82,7 +82,7 @@ class UICircleAnimation:UIView {
     }
     
     /// - Set wrapperView, default 100x100
-    func setView(wrapperView:UIView) {
+    public func setView(wrapperView:UIView) {
         self.wrapperView = wrapperView
     }
     

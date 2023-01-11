@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-enum ZMStartAngle {
+public enum ZMStartAngle {
     
     case top
     case left

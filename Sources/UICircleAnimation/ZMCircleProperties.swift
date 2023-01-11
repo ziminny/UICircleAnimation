@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-class ZMCircleProperties {
+public class ZMCircleProperties {
     var backgroundColor:UIColor
     var circleColor:UIColor?
     
