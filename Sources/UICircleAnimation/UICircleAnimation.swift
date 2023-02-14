@@ -12,7 +12,7 @@ public class UICircleAnimation:UIView {
     
     let containerView = UIView()
     
-    var shadowProperties:ZMShadowProperties = .init(backgroundColor: UIColor.clear.cgColor, shadowColor: UIColor.black.cgColor, shadowOffset: CGSize(width: 0, height: 1.0), shadowOpacity: 0.6, shadowRadius: 4.0)
+    public var shadowProperties:ZMShadowProperties = .init(backgroundColor: UIColor.clear.cgColor, shadowColor: UIColor.black.cgColor, shadowOffset: CGSize(width: 0, height: 1.0), shadowOpacity: 0.6, shadowRadius: 4.0)
  
     
     public var gradientLayer: CAGradientLayer?
