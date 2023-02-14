@@ -11,7 +11,7 @@
 Add package  ```https://github.com/ziminny/UICircleAnimation```
 
 
-```
+```Swift
 let circleAnimation = UICircleAnimation(wrapperView: yourView)
         
         // Start animation angle
