@@ -6,6 +6,11 @@
 ![example2](https://user-images.githubusercontent.com/46787789/218880768-8b280c94-e206-4095-a6b9-4c990c526c88.png) 
 ![example3](https://user-images.githubusercontent.com/46787789/218880776-c6576743-b275-48a3-a4d3-57a473272aee.png)
 
+<br>
+
+Add package  ```https://github.com/ziminny/UICircleAnimation```
+
+
 ```
 let circleAnimation = UICircleAnimation(wrapperView: yourView)
         
