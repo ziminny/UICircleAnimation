@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Vagner Oliveira on 11/01/23.
 //
@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-public enum ZMStartAngle {
+public enum UIStartAngle {
     
     case top
     case left
